@@ -1,6 +1,6 @@
 # Python lab Homeworks
 
-### List Of uploaded Homework :
+### List Of Uploaded Homework :
 
 - [x] HW 1
 - [ ] HW 2
