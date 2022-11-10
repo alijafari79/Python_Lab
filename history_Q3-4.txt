@@ -1,0 +1,22 @@
+
+   94  sudo apt install tree
+   95  tree -d -L 2
+   96  tree -d -L 2 > history_Q3-4.txt
+   97  history > history_Q3-4
+   
+   output:
+   .
+├── A
+├── Desktop
+├── Documents
+├── Downloads
+├── Music
+├── Pictures
+├── Public
+├── snap
+│   ├── firefox
+│   └── snapd-desktop-integration
+├── Templates
+└── Videos
+
+12 directories

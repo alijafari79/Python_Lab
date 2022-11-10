@@ -1,0 +1,7 @@
+ 
+  113  cd Downloads
+  114  file sqspell.jpg
+  115  history > history_Q3-5.txt
+  
+  output:
+  sqspell.jpg: PHP script, ASCII text
