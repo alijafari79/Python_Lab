@@ -1,0 +1,6 @@
+   
+   85  cd ~
+   86  cd /etc
+   87  ls
+   88  cd ~
+   89  history > history_Q3-3.txt
