@@ -1,4 +1,4 @@
-# HW1 - Section 3.6
+# HW1 - Section 4.1
 
 
 Let's create a new user :
