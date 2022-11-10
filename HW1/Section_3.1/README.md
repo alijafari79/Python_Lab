@@ -1,4 +1,4 @@
-# HW1 - Section 1.3
+# HW1 - Section 3.1
 
 Using command below to install fortune :
 
