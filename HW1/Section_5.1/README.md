@@ -7,6 +7,8 @@ Using dpkg, let's list all the packages installed :
 dpkg -l > dpkg_list_installed_packages.txt
 ```
 
+[List of Packages](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_5.1/dpkg_list_installed_packages.txt)
+
 
 Now let's check the firefox version :
 
