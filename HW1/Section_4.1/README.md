@@ -42,13 +42,15 @@ mahdi is not in the sudoers file.  This incident will be reported.
 ### Now let's fix the issue :
 
 
-* First Approach : Adding user "mahdi" to "sudo" group to be able to access SuperUser Privileges :
+#### First Approach : 
+
+Adding user "mahdi" to "sudo" group to be able to access SuperUser Privileges :
 
 ```
 usermod -aG sudo mahdi
 ```
 
-- [*] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned above.
+- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned above.
 
 
 
