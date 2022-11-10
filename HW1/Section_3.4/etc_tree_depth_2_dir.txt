@@ -1,0 +1,282 @@
+/etc
+├── acpi
+│   └── events
+├── alternatives
+│   └── mpi -> /usr/lib/x86_64-linux-gnu/openmpi/include
+├── anydesk
+│   └── recordings
+├── apache2
+│   └── conf-available
+├── apm
+│   ├── event.d
+│   ├── resume.d
+│   ├── scripts.d
+│   └── suspend.d
+├── apparmor
+│   └── init
+├── apparmor.d
+│   ├── abstractions
+│   ├── cache
+│   ├── disable
+│   ├── force-complain
+│   ├── local
+│   └── tunables
+├── apport
+│   ├── blacklist.d
+│   └── native-origins.d
+├── apt
+│   ├── apt.conf.d
+│   ├── auth.conf.d
+│   ├── preferences.d
+│   ├── sources.list.d
+│   └── trusted.gpg.d
+├── avahi
+│   └── services
+├── bash_completion.d
+├── binfmt.d
+├── bluetooth
+├── brltty
+│   ├── Attributes
+│   ├── Contraction
+│   ├── Input
+│   ├── Keyboard
+│   └── Text
+├── ca-certificates
+│   └── update.d
+├── calendar
+├── chatscripts
+├── chromium
+│   └── native-messaging-hosts
+├── console-setup
+├── cracklib
+├── cron.d
+├── cron.daily
+├── cron.hourly
+├── cron.monthly
+├── cron.weekly
+├── cups
+│   ├── interfaces
+│   ├── ppd
+│   └── ssl
+├── cupshelpers
+├── dbus-1
+│   ├── session.d
+│   └── system.d
+├── dconf
+│   ├── db
+│   └── profile
+├── default
+├── depmod.d
+├── dhcp
+│   ├── dhclient-enter-hooks.d
+│   └── dhclient-exit-hooks.d
+├── dictionaries-common
+├── docker
+├── dpkg
+│   ├── dpkg.cfg.d
+│   └── origins
+├── emacs
+│   └── site-start.d
+├── firefox
+│   └── pref
+├── fonts
+│   ├── conf.avail
+│   └── conf.d
+├── fwupd
+│   └── remotes.d
+├── gdb
+├── gdm3
+│   ├── Init
+│   ├── PostLogin
+│   ├── PostSession
+│   ├── PreSession
+│   ├── Prime
+│   └── PrimeOff
+├── geoclue
+├── ghostscript
+│   ├── cidfmap.d
+│   └── fontmap.d
+├── glvnd
+│   └── egl_vendor.d
+├── gnome
+├── groff
+├── grub.d
+├── gss
+│   └── mech.d
+├── gtk-2.0
+├── gtk-3.0
+├── hp
+├── ifplugd
+│   └── action.d
+├── ImageMagick-6
+├── init
+├── init.d
+├── initramfs-tools
+│   ├── conf.d
+│   ├── hooks
+│   └── scripts
+├── insserv.conf.d
+├── iproute2
+│   ├── rt_protos.d
+│   └── rt_tables.d
+├── kernel
+│   ├── install.d
+│   ├── postinst.d
+│   ├── postrm.d
+│   └── preinst.d
+├── ldap
+├── ld.so.conf.d
+├── libblockdev
+│   └── conf.d
+├── libibverbs.d
+├── libnl-3
+├── libpaper.d
+├── libreoffice
+│   └── registry
+├── lighttpd
+│   ├── conf-available
+│   └── conf-enabled
+├── logcheck
+│   ├── ignore.d.paranoid
+│   └── ignore.d.server
+├── logrotate.d
+├── modprobe.d
+├── modules-load.d
+├── mysql
+│   └── conf.d
+├── netplan
+├── network
+│   ├── if-down.d
+│   ├── if-post-down.d
+│   ├── if-pre-up.d
+│   ├── if-up.d
+│   └── interfaces.d
+├── networkd-dispatcher
+│   ├── dormant.d
+│   ├── no-carrier.d
+│   ├── off.d
+│   └── routable.d
+├── NetworkManager
+│   ├── conf.d
+│   ├── dispatcher.d
+│   ├── dnsmasq.d
+│   ├── dnsmasq-shared.d
+│   └── system-connections
+├── newt
+├── openmpi
+├── openvpn
+│   ├── client
+│   └── server
+├── opt
+│   └── chrome
+├── PackageKit
+├── pam.d
+├── pcmcia
+├── perl
+│   ├── CPAN
+│   ├── Net
+│   └── XML
+├── pki
+│   ├── fwupd
+│   └── fwupd-metadata
+├── pm
+│   └── sleep.d
+├── polkit-1
+│   ├── localauthority
+│   ├── localauthority.conf.d
+│   └── nullbackend.conf.d
+├── ppp
+│   ├── ip-down.d
+│   ├── ip-up.d
+│   ├── ipv6-down.d
+│   ├── ipv6-up.d
+│   ├── peers
+│   └── resolv
+├── profile.d
+├── pulse
+├── python
+├── python2.7
+├── python3
+├── python3.6
+├── python3.9
+├── rc0.d
+├── rc1.d
+├── rc2.d
+├── rc3.d
+├── rc4.d
+├── rc5.d
+├── rc6.d
+├── rcS.d
+├── resolvconf
+│   └── update-libc.d
+├── rsyslog.d
+├── sane.d
+│   └── dll.d
+├── security
+│   ├── limits.d
+│   └── namespace.d
+├── selinux
+├── sensors.d
+├── signon-ui
+│   └── webkit-options.d
+├── skel
+├── speech-dispatcher
+│   ├── clients
+│   └── modules
+├── ssh
+├── ssl
+│   ├── certs
+│   └── private
+├── sudoers.d
+├── sysctl.d
+├── systemd
+│   ├── network
+│   ├── system
+│   └── user
+├── terminfo
+├── thermald
+├── thunderbird
+├── tmpfiles.d
+├── ubuntu-advantage
+├── udev
+│   ├── hwdb.d
+│   └── rules.d
+├── udisks2
+├── ufw
+│   └── applications.d
+├── update-manager
+│   └── release-upgrades.d
+├── update-motd.d
+├── update-notifier
+├── UPower
+├── usb_modeswitch.d
+├── vim
+├── vmware-caf
+│   └── pme
+├── vmware-tools
+│   ├── GuestProxyData
+│   ├── icu -> /usr/lib/vmware-tools/icu
+│   ├── messages
+│   ├── plugins -> /usr/lib/vmware-tools/plugins
+│   ├── scripts
+│   ├── vgauth
+│   └── vmware-tools
+├── wpa_supplicant
+├── X11
+│   ├── app-defaults
+│   ├── cursors
+│   ├── fonts
+│   ├── xinit
+│   ├── xkb
+│   ├── Xreset.d
+│   ├── Xresources
+│   ├── Xsession.d
+│   └── xsm
+├── xdg
+│   ├── autostart
+│   ├── menus
+│   ├── systemd
+│   └── ui
+└── zsh
+
+279 directories
