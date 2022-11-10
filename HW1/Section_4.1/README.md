@@ -50,7 +50,7 @@ Adding user "mahdi" to "sudo" group to be able to access SuperUser Privileges :
 usermod -aG sudo mahdi
 ```
 
-- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned above.
+- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned first :)
 
 
 #### Second Approach : 
@@ -61,4 +61,4 @@ Manually add "mahdi" user to the "sudoers" file :
 echo "mahdi   ALL=(ALL:ALL) ALL" >> /etc/sudoers
 ```
 
-- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned above.
+- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned at first :)
