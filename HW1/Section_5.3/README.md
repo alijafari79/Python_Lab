@@ -15,4 +15,12 @@ Here is the Output of the command :
     GNU General Public License for more details.
 ```
 
+Now let's find all the words containing "cept" :
+
+```
+grep "cept" ./GPL-1
+```
+
+The result is Here :
+
 ![image](https://user-images.githubusercontent.com/50498845/201208976-c785111a-a3d8-4ea7-9372-4b81d3bfb0a6.png)
