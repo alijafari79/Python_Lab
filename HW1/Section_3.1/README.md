@@ -28,6 +28,8 @@ Now let's remove **fortunes** :
 
 ```
 sudo apt remove fortunes && sudo apt purge fortunes
+sudo apt-get purge fortune-mod 
+sudo apt-get purge fortunes-min
 ```
 
 
