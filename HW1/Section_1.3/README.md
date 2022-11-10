@@ -15,4 +15,4 @@ apt list --installed
 
 Now here is the list of packages with "fortune" installed :
 
-[List_of_Packages](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.3/list_of_packages_with_fortune_installed.txt#:~:text=fortune%2Dmod/bionic,all%20%5Binstalled%2Cautomatic%5D)
+[List_of_Packages](https://github.com/alijafari79/Python_Lab/blob/53f71ccb807607eaf9f224238e0f06ce76280efd/HW1/Section_1.3/list_of_packages_with_fortune_installed.txt#L255#L257)
