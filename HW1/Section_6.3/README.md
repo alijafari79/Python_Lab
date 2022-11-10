@@ -21,3 +21,5 @@ Then run it again correctly to append the cpuinfo to the file :
 ```
 cat /proc/cpuinfo >> out.txt 2>&1
 ```
+
+The out.txt file is provided [HERE](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_6.3/out.txt) .... :)
