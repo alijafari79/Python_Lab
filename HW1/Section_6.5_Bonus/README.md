@@ -9,6 +9,7 @@ tmux includes most features of GNU Screen. It allows users to start a terminal s
 
 ### 1 Installation :
 
+
 ```
 sudo apt install tmux
 ```
