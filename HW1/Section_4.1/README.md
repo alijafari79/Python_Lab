@@ -37,3 +37,12 @@ The output show that user **mahdi** is not in sudoers group :
 ```
 mahdi is not in the sudoers file.  This incident will be reported.
 ```
+---
+
+#### Now let's fix the issue :
+
+
+# * First Approach :
+
+
+
