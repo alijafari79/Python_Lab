@@ -1,0 +1,89 @@
+    1  sudo apt-get update -y
+    2  sudo apt-get install -y fortune
+    3  fortune
+    4  apt list --installed | grep fortune
+    5  sudo apt-get --purge remove fortune
+    6  apt list --installed | grep fortune
+    7  sudo apt-get --purge remove fortune-mod
+    8  apt list --installed | grep fortune
+    9  sudo apt-get --purge remove fortunes-min
+   10  apt list --installed | grep fortune
+   11  history > history_Q3-1.txt
+   12  fortune --help
+   13  man fortune
+   14  fortune
+   15  apt list --installed
+   16  grep fortune
+   17  apt list --installed | grep fortune 
+   18  pwd
+   19  cd /home/zeinab/A
+   20  cd ../B
+   21  cd ..
+   22  pwd
+   23  cd /home/zeinab/A
+   24  cd ../B
+   25  cd ./A
+   26  cd ../A
+   27  cd ..
+   28  pwd
+   29  cd /home/zeinab/A
+   30  cd ../B
+   31  cd..
+   32  cd ..
+   33  cd /A
+   34  cd ../A
+   35  cd ./A
+   36  Touch sample.txt
+   37  touch sample.txt
+   38  ls -t -r
+   39  ls
+   40  cd ..
+   41  pwd
+   42  cd /home/zeinab/A
+   43  cd ../B
+   44  cd ../A
+   45  touch file.txt
+   46  ls -t -r
+   47  cp file.txt A
+   48  ls A
+   49  ls
+   50  cd ..
+   51  cd ../A
+   52  cd A
+   53  touch test.txt
+   54  cp test.txt B
+   55  cd ../B
+   56  ls -t -r
+   57  touch test
+   58  cd ../A
+   59  cp test
+   60  cp test B
+   61  cp --help
+   62  touch test.txt
+   63  cp test.txt B/test.txt
+   64  cp test.txt ../B/test.txt
+   65  ls ../B
+   66  pwd
+   67  cd /home/zeinab/A
+   68  cd ../B
+   69  cd ../A
+   70  touch file.txt
+   71  cp file.txt ../B/file.txt
+   72  ls ../B
+   73  mv file.txt /home
+   74  mv file.txt ~/Desktop
+   75  cd ..
+   76  rm -r B
+   77  ls
+   78  history > history_Q3-2
+   79  /etc
+   80  cd /etc
+   81  ls
+   82  history > history_Q3-3
+   83  cd ..
+   84  history > his
+   85  cd ~
+   86  cd /etc
+   87  ls
+   88  cd ~
+   89  history > history_Q3-3.txt

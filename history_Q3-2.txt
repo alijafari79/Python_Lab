@@ -1,0 +1,14 @@
+
+   41  pwd
+   42  cd /home/zeinab/A
+   43  cd ../B
+   44  cd ../A
+   45  touch file.txt
+   46  cp file.txt ../B/file.txt
+   47  ls ../B
+   48  mv file.txt /home
+   49  mv file.txt ~/Desktop
+   50  cd ..
+   51  rm -r B
+   52  ls
+   53  history > history_Q3-2
