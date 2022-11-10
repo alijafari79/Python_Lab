@@ -62,3 +62,13 @@ echo "mahdi   ALL=(ALL:ALL) ALL" >> /etc/sudoers
 ```
 
 - [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned at first :)
+
+
+
+### Removing Users : 
+
+Now removing users and their home directory :
+
+```
+userdel -r mahdi mahdi2
+```
