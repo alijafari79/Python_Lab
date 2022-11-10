@@ -35,6 +35,7 @@ sh install.sh
  - Reopen terminal
 
 ### Ref
+
  - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
  - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
  - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
