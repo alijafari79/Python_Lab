@@ -58,3 +58,6 @@ kill -9 <PID>
 
 
 now the process is killed ... :)
+
+
+The ping command output is saved [HERE](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_6.3/log.txt).
