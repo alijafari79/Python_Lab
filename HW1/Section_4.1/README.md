@@ -34,6 +34,6 @@ sudo useradd -s /bin/bash -m mahdi2
 
 The output show that user **mahdi** is not in sudoers group :
 
-```bash
+```
 mahdi is not in the sudoers file.  This incident will be reported.
 ```
