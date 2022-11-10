@@ -7,5 +7,5 @@ Now Finding lines without comment :
 grep -v "^#" ./sqspell.php
 ```
 
-using -v flag to invert the search pattern ....
+using -v flag to invert the search pattern ...
 
