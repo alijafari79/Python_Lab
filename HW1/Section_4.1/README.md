@@ -50,7 +50,7 @@ Adding user "mahdi" to "sudo" group to be able to access SuperUser Privileges :
 usermod -aG sudo mahdi
 ```
 
-- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned first :)
+- [X] Now the issue is fixed and user "mahdi" can create another user, using the command mentioned at first :)
 
 
 #### Second Approach : 
