@@ -1,6 +1,6 @@
 We have 3 types of connections through VMware that can be connected to the network:
 
-1. Host-only
+1. [Host-only](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#host-only)
 2. NAT
 3. Bridged
 
