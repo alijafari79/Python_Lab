@@ -1,4 +1,4 @@
-We have 3 types of connections through VMware that can be connected to the network:
+We have 3 types of connections through which VMware can communicate in a network:
 
 1. [Host-only](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#host-only)
 2. [NAT](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#nat)
