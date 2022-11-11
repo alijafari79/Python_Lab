@@ -2,7 +2,7 @@ We have 3 types of connections through VMware that can be connected to the netwo
 
 1. [Host-only](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#host-only)
 2. [NAT](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#nat)
-3. Bridged
+3. [Bridged](https://github.com/alijafari79/Python_Lab/blob/main/HW1/Section_1.1/README.md#bridged)
 
 ## Host-only
 **Host-only** only permits network operations with the Host OS. The VM will be assigned one IP, but it's only accessible by the box VM is running on. No other computers can access it. When set to host only, the VM exists only on a private network visible to other VMs on the same host using the same setting, and to the host machine itself, but no connection is available from the VM to external networks via the host adapter.
