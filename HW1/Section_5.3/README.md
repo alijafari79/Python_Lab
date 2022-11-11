@@ -24,3 +24,10 @@ grep "cept" ./GPL-1
 The result is Here :
 
 ![image](https://user-images.githubusercontent.com/50498845/201208976-c785111a-a3d8-4ea7-9372-4b81d3bfb0a6.png)
+
+
+Now to extract the text between parentheses :
+
+```
+grep -oP '(?<=\()[^\)]+' ./GPL-1
+```

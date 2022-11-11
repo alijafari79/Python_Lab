@@ -13,3 +13,18 @@ Now to enter search mode type '/' and then the word "GNU"  :
 ```
 
 Now to go through the search results type **'n'** to go for the **next** one found ....
+
+
+Then to search for the substring "cept" :
+
+```
+/cept
+```
+
+
+Now in order to get the text between parentheses :
+
+```
+
+```
+
